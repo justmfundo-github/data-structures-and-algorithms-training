@@ -1,0 +1,7 @@
+When to use Arrays
+To store multiple variables of the same data type
+When random access to elements is required
+
+When to avoid Arrays
+When we need to store different data types
+When the size of the elements is unknown. Array reserves specific size and can be wasteful
